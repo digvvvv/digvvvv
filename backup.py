@@ -21,7 +21,7 @@ DESCRIPTION = """
 
 # How old a file needs to be in order
 # to be considered for being removed
-NO_OF_DAYS = 7
+NO_OF_DAYS = 6
 
 def sqlite3_backup(dbfile, backupdir):
     """Create timestamped database copy"""
