@@ -1,1 +1,3 @@
 # digvvvv
+
+print a
